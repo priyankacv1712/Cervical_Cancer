@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+.venv
+venv/
+
+# Outputs (large files – don't commit)
+outputs/models/*.pkl
+outputs/features.csv
+
+# Dataset (don't commit images)
+herlev dataset original/
+*.bmp
+*.tif
+*.tiff
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
