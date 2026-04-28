@@ -101,7 +101,7 @@ All outputs are saved in the `outputs/` folder:
 
 ---
 
-## Results (from paper)
+## Results
 
 | Classifier | Accuracy | Sensitivity | Specificity | AUC |
 |-----------|----------|-------------|-------------|-----|
